@@ -1,3 +1,14 @@
+<details>
+<summary>My top language</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| HTML/CSS/JS    |
+|     3| LINUX command       |
+
+</details>
+
 ### Hi there 👋
 * 👂 My name is Ragnvindr
 * 👩 Pronouns: Him
@@ -17,4 +28,6 @@
 </p>
 
 ![Alt Text](https://raw.githubusercontent.com/ragnvindr08/Information/main/Screenshot%202024-01-19%203.48.58%20AM.png)
+
+
 
